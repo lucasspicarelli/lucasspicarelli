@@ -1,5 +1,4 @@
 # Olá! 👋 Sou Lucas Picarelli
-
 Sou um Desenvolvedor .NET apaixonado por criar soluções robustas e escaláveis. Atualmente, contribuo para o desenvolvimento e manutenção de sistemas tanto Desktop quanto Web, aplicando as melhores práticas de engenharia de software para entregar código de alta qualidade.
 
 ## Sobre Mim
