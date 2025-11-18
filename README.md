@@ -3,11 +3,11 @@ Sou um Desenvolvedor .NET apaixonado por criar soluções robustas e escaláveis
 
 ## Sobre Mim
 
-Com experiência prática desde março de 2024, tenho me dedicado a aprimorar minhas habilidades no ecossistema .NET. Meu foco está em construir aplicações eficientes, utilizando arquiteturas bem definidas e padrões de projeto consagrados. Acredito que a combinação de conhecimento técnico sólido com princípios como Clean Code e SOLID é fundamental para o sucesso de qualquer projeto de software.
+Com experiência prática desde 2023 tenho me dedicado a aprimorar minhas habilidades no ecossistema .NET. Meu foco está em construir aplicações eficientes, utilizando arquiteturas bem definidas e padrões de projeto consagrados. Acredito que a combinação de conhecimento técnico sólido com princípios como Clean Code e SOLID é fundamental para o sucesso de qualquer projeto de software.
 
 ## Experiência Profissional
 
-**Desenvolvedor .NET** | Março de 2024 - Presente (1 ano e 3 meses)
+**Desenvolvedor .NET** | Março de 2024 - Presente
 
 Nesta função, atuo no desenvolvimento e manutenção de sistemas Desktop, utilizando Windows Forms, e aplicações Web com ASP.NET MVC. Sou responsável pela estruturação de projetos em camadas, garantindo uma separação clara de responsabilidades e facilitando a manutenção e evolução do código.
 
