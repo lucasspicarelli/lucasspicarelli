@@ -5,6 +5,9 @@ Sou um Desenvolvedor .NET apaixonado por criar soluções robustas e escaláveis
 
 Com experiência prática desde 2023 tenho me dedicado a aprimorar minhas habilidades no ecossistema .NET. Meu foco está em construir aplicações eficientes, utilizando arquiteturas bem definidas e padrões de projeto consagrados. Acredito que a combinação de conhecimento técnico sólido com princípios como Clean Code e SOLID é fundamental para o sucesso de qualquer projeto de software.
 
+## Veja quanto tempo tenho nas IDEs pelo Wakatime
+https://wakatime.com/@lucaspicarelli
+
 ## Experiência Profissional
 
 **Desenvolvedor .NET** | Março de 2024 - Presente
