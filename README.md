@@ -1,13 +1,13 @@
-### Olá, sou o Renato Groffe 👋
+### Olá! 👋 Sou Lucas Picarelli
 
-Microsoft Most Valuable Professional (MVP), Multi-Plataform Technical Audience Contributor (MTAC), Software Engineer, Technical Writer and Speaker
+Sou um Desenvolvedor .NET apaixonado por criar soluções robustas e escaláveis.
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatogroffe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatogroffe&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 
 <!--
-**renatogroffe/renatogroffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Olá! 👋 Sou Lucas Picarelli
+
 Sou um Desenvolvedor .NET apaixonado por criar soluções robustas e escaláveis. Atualmente, contribuo para o desenvolvimento e manutenção de sistemas tanto Desktop quanto Web, aplicando as melhores práticas de engenharia de software para entregar código de alta qualidade.
 
 
