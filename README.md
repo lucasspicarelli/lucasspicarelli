@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=footer"/>
 
----
 
 ### Hi!
 ## I'm👋 Lucas Picarelli
