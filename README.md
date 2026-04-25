@@ -94,7 +94,7 @@ I'm a **Full Stack .NET Developer** based in Brazil, passionate about building s
 <div align="center">
 
 [![Email](https://img.shields.io/badge/lucas__picarelli%40hotmail.com-0078D4?logo=microsoftoutlook&logoColor=white&style=for-the-badge)](mailto:lucas_picarelli@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)]([https://linkedin.com/in/lucasspicarelli](https://www.linkedin.com/in/lucas-picarelli/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lucas-picarelli/)
 
 </div>
 
