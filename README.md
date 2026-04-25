@@ -1,11 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=footer"/>
 
+---
+
 ### Hi!
 ## I'm👋 Lucas Picarelli
 ### Full Stack .NET Developer | Angular | SQL Server
 
+---
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasspicarelli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasspicarelli&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 
@@ -23,6 +29,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...,
 - ⚡ Fun fact: ...
 -->
+
+---
+
 I build scalable web applications using **ASP.NET Core, Angular and SQL Server**, focusing on clean architecture, performance, and maintainability.  
 Experienced in API development, CI/CD pipelines, Docker environments and relational databases.  
 
