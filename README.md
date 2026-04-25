@@ -89,6 +89,6 @@ Experienced in API development, CI/CD pipelines, Docker environments and relatio
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=footer"/>
 
 
-## Contato
+## E-mail
 
 lucas_picarelli@hotmail.com
