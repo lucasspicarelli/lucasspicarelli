@@ -1,6 +1,7 @@
-### Olá! 👋 Sou Lucas Picarelli
+### Hi!
+## I'm👋 Lucas Picarelli
+### Full Stack .NET Developer | Angular | SQL Server
 
-Sou um Desenvolvedor .NET apaixonado por criar soluções robustas e escaláveis.
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasspicarelli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasspicarelli&layout=compact&langs_count=6&theme=algolia"/>
@@ -20,38 +21,71 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...,
 - ⚡ Fun fact: ...
 -->
+I build scalable web applications using **ASP.NET Core, Angular and SQL Server**, focusing on clean architecture, performance, and maintainability.  
+Experienced in API development, CI/CD pipelines, Docker environments and relational databases.  
 
+---
 
-Sou um Desenvolvedor .NET apaixonado por criar soluções robustas e escaláveis. Atualmente, contribuo para o desenvolvimento e manutenção de sistemas tanto Desktop quanto Web, aplicando as melhores práticas de engenharia de software para entregar código de alta qualidade.
+## 🚀 Tech Stack
 
+### 💻 Languages
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white)](#)
 
-## Sobre Mim
+---
 
-Com experiência prática desde 2023 tenho me dedicado a aprimorar minhas habilidades no ecossistema .NET. Meu foco está em construir aplicações eficientes, utilizando arquiteturas bem definidas e padrões de projeto consagrados. Acredito que a combinação de conhecimento técnico sólido com princípios como Clean Code e SOLID é fundamental para o sucesso de qualquer projeto de software.
+### 🏗 Frameworks & Libraries
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=fff)](#)
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
+[![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff)](#)
 
-## Veja quanto tempo tenho nas IDEs pelo Wakatime
-https://wakatime.com/@lucaspicarelli
+---
 
-## Experiência Profissional
+### ☁ Cloud & DevOps
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)](#)
+[![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff)](#)
 
-**Desenvolvedor .NET** | Março de 2024 - Presente
+---
 
-Nesta função, atuo no desenvolvimento e manutenção de sistemas Desktop, utilizando Windows Forms, e aplicações Web com ASP.NET MVC. Sou responsável pela estruturação de projetos em camadas, garantindo uma separação clara de responsabilidades e facilitando a manutenção e evolução do código.
+### 🗄 Databases
+[![SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 
-No que diz respeito ao acesso a dados, possuo experiência com diferentes abordagens, incluindo o uso de ORMs como Entity Framework e Dapper, além do tradicional ADO.NET para cenários específicos. Realizo também a modelagem de bancos de dados relacionais, principalmente com SQL Server, assegurando a integridade e performance das informações.
+---
 
-Além do desenvolvimento, participo ativamente do gerenciamento de projetos utilizando o Azure DevOps, colaborando com a equipe para planejar, executar e monitorar as entregas. A aplicação consistente de Design Patterns, Clean Code e os princípios SOLID faz parte do meu dia a dia, visando sempre a construção de software de qualidade, manutenível e escalável.
+### 🛠 Tools
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
+[![VS Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000)](#)
+[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
 
-## Tecnologias e Ferramentas
+---
 
-Possuo experiência com as seguintes tecnologias e ferramentas:
+## 📈 What I Focus On
+- Clean Architecture & SOLID principles  
+- RESTful API design  
+- Authentication & Authorization (JWT)  
+- Performance optimization  
+- Automated testing  
+- CI/CD pipelines  
+- Dockerized production environments
+- Azure DevOps
 
-*   **Linguagens:** C#
-*   **Frameworks/Plataformas:** .NET, ASP.NET MVC, Windows Forms
-*   **Acesso a Dados:** Entity Framework, Dapper, ADO.NET
-*   **Banco de Dados:** SQL Server
-*   **Ferramentas DevOps:** Azure DevOps
-*   **Princípios e Práticas:** Design Patterns, Clean Code, SOLID
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=footer"/>
+
 
 ## Contato
 
