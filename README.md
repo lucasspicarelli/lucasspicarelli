@@ -84,7 +84,7 @@ I'm a **Full Stack .NET Developer** based in Brazil, passionate about building s
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasspicarelli&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=lucasspicarelli&theme=algolia&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
