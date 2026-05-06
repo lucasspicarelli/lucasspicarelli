@@ -6,11 +6,11 @@
 
 </div>
 
----
+-----
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack .NET Developer** based in Brazil, passionate about building scalable, maintainable web applications with a focus on clean architecture and performance.
+I’m a **Full Stack .NET Developer** based in Brazil, passionate about building scalable, maintainable web applications with a focus on clean architecture and performance.
 
 - 🔭 Currently working with **ASP.NET Core**, **Angular** and **SQL Server**
 - 🏗️ Strong focus on **Clean Architecture**, **SOLID** principles and **Domain-Driven Design**
@@ -18,7 +18,7 @@ I'm a **Full Stack .NET Developer** based in Brazil, passionate about building s
 - 🗄️ Skilled in **relational databases**, API design and authentication flows (JWT)
 - 📬 Reach me at: **lucas_picarelli@hotmail.com**
 
----
+-----
 
 ## 🚀 Tech Stack
 
@@ -59,7 +59,7 @@ I'm a **Full Stack .NET Developer** based in Brazil, passionate about building s
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)
 
----
+-----
 
 ## 📈 What I Focus On
 
@@ -74,7 +74,7 @@ I'm a **Full Stack .NET Developer** based in Brazil, passionate about building s
 ✔  Azure DevOps
 ```
 
----
+-----
 
 ## 📊 GitHub Stats
 
@@ -87,7 +87,7 @@ I'm a **Full Stack .NET Developer** based in Brazil, passionate about building s
   <img src="https://streak-stats.demolab.com/?user=lucasspicarelli&theme=algolia&hide_border=true" alt="GitHub Streak"/>
 </div>
 
----
+-----
 
 ## 📫 Get In Touch
 
@@ -98,6 +98,6 @@ I'm a **Full Stack .NET Developer** based in Brazil, passionate about building s
 
 </div>
 
----
+-----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:343642,100:1a1b27&height=120&section=footer"/>
