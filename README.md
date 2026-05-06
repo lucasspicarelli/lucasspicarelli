@@ -79,12 +79,12 @@ I’m a **Full Stack .NET Developer** based in Brazil, passionate about building
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=lucasspicarelli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasspicarelli&layout=compact&langs_count=6&theme=algolia&hide_border=true&cache_seconds=1800"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=lucasspicarelli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasspicarelli&layout=compact&langs_count=6&theme=algolia&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=lucasspicarelli&theme=algolia&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=lucasspicarelli&theme=algolia&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 -----
